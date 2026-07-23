@@ -23,7 +23,8 @@ The project uses a sample sales dataset (customers, transactions, products, mark
 
 ## Dashboard Preview
 
-*(dashboard screenshot goes here — e.g. `![Dashboard](dashboard.png)`)*
+<img width="1281" height="724" alt="image" src="https://github.com/user-attachments/assets/c311c030-e955-42c0-803b-9d95190ecdf1" />
+
 
 ## Tools Used
 `MySQL` `Power BI` `Power Query (M)` `SQL`
